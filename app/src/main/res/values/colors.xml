@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_bg">#FF090B10</color>
+    <color name="charcoal_surface">#FF121621</color>
+    <color name="cyber_purple">#FF8B5CF6</color>
+    <color name="electric_blue">#FF38BDF8</color>
+    <color name="emerald_valid">#FF10B981</color>
+    <color name="amber_warn">#FFF59E0B</color>
+    <color name="crimson_invalid">#FFEF4444</color>
+</resources>

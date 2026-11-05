@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MetaShield</string>
+    <string name="app_tagline">On-Device Image Metadata &amp; C2PA Content Credentials Inspector &amp; Sanitizer</string>
+    <string name="privacy_badge">100% On-Device · Zero Network Permissions</string>
+    <string name="epistemic_c2pa_notice">Missing C2PA Content Credentials do not prove that an image is authentic, unedited, or human-created. They only indicate that no embedded C2PA manifest was found inside this file container.</string>
+    <string name="watermark_scope_notice">External manifests stored in remote provenance registries and imperceptible pixel-level watermarks (such as Google SynthID or frequency-domain steganography) reside outside file metadata headers and are not removed by metadata cleaning.</string>
+    <string name="provenance_removal_warning">Removing C2PA Content Credentials strips cryptographic provenance history from the exported copy and may prevent third-party tools from verifying the original creation or editing lineage of the exported image. Your original source file remains untouched.</string>
+</resources>
